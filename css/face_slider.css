@@ -1,0 +1,25 @@
+#face-slider{
+	position:fixed;
+	left:-309px;
+	top:152px;
+	z-index:100;
+}
+#face-slider #tab{
+	cursor:pointer;
+	height:109px;
+	width:35px;
+	float:right;
+	background: url(../images/main/facebook-slider.png) no-repeat center center;
+}
+#face-code{
+	padding:5px;
+	border: solid #0170cf 3px;
+	background: #fff;
+	float:right;
+	width:293px;
+	height:296px;
+	-moz-border-radius: 0 0 15px 0;
+	-webkit-border-radius: 0 0 15px 0;
+	border-radius: 0 0 15px 0;
+	-khtml-border-radius: 0 0 15px 0;
+}
