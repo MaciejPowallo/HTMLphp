@@ -1,0 +1,13 @@
+###TEMPORARY FILES###
+Thumbs.db
+*~
+*.tmp
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsdx
+*.blend1
+
+#OTHERS
+pliki/*
